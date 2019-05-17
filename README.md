@@ -1,1 +1,2 @@
-# python-Jinritoutiao_spider
+# python-Jinritoutiao_spider[2019.5.18]
+## 这是一个超级烦人的项目,一开始想用普通方法获取头条,发现整个头条就是一堆AJAX堆叠而成的,如果逐个逐个分析,会让你死的不能再死,这里是把爬虫爬到了CSV中,后面会完善并且直接爬到数据库中.后面会试着导入到MONGODB,优先是爬进mysql吧.
